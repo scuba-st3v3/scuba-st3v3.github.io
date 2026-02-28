@@ -19,6 +19,9 @@ GEM
     base64 (0.3.0)
     benchmark (0.5.0)
     bigdecimal (4.0.1)
+    brakeman (6.2.2)
+      racc
+    breakman (1.0.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -278,6 +281,8 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  brakeman (~> 6.2)
+  breakman (~> 1.0)
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.6)
