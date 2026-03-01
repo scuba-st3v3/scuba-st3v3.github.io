@@ -29,6 +29,15 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings
+author: Steven Hostetler
+social:
+  name: Steven Hostetler
+  links:
+    - https://github.com/scuba-st3v3
+    - https://www.linkedin.com/in/steven-hostetler/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
