@@ -16,12 +16,11 @@
 title: Steven Hostetler
 email: steven.hostetler@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Personal blog of Steven Hostetler. Writing about security, tech projects,
+  and whatever else interests me.
+url: "https://stevenhostetler.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  scuba-st3v3
+linkedin: steven-hostetler
 
 # Build settings
 markdown: kramdown
@@ -33,11 +32,6 @@ plugins:
 
 # SEO settings
 author: Steven Hostetler
-social:
-  name: Steven Hostetler
-  links:
-    - https://github.com/scuba-st3v3
-    - https://www.linkedin.com/in/steven-hostetler/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

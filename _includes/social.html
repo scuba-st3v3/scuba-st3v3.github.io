@@ -1,0 +1,18 @@
+<ul class="social-media-list">
+  {% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>
+      <span class="username">{{ site.github_username }}</span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.linkedin %}
+  <li>
+    <a href="https://www.linkedin.com/in/{{ site.linkedin }}">
+      <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>
+      <span class="username">{{ site.linkedin }}</span>
+    </a>
+  </li>
+  {% endif %}
+</ul>

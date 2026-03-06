@@ -19,9 +19,6 @@ GEM
     base64 (0.3.0)
     benchmark (0.5.0)
     bigdecimal (4.0.1)
-    brakeman (6.2.2)
-      racc
-    breakman (1.0.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -147,6 +144,8 @@ GEM
       jekyll (>= 3.4, < 5.0)
       octokit (>= 4, < 7, != 4.4.0)
     jekyll-include-cache (0.2.1)
+      jekyll (>= 3.7, < 5.0)
+    jekyll-llmstxt (0.1.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
@@ -281,11 +280,10 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  brakeman (~> 6.2)
-  breakman (~> 1.0)
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.6)
+  jekyll-llmstxt
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm
