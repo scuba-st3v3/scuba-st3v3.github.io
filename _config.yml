@@ -22,6 +22,11 @@ url: "https://stevenhostetler.com" # the base hostname & protocol for your site,
 github_username:  scuba-st3v3
 linkedin: steven-hostetler
 
+# Navigation
+header_pages:
+  - index.md
+  - resume.md
+
 # Build settings
 markdown: kramdown
 theme: minima
