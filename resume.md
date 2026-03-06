@@ -12,7 +12,9 @@ permalink: /resume/
 
 ## Experience
 
-### Director of Security & IT | Elate | July 2023 – Present
+### Elate
+
+#### Director of Security & IT | July 2023 – Present
 
 - Led implementation of AI-assisted development workflows across the SDLC, embedding shift-left security, AI governance, and compliance controls to drive secure delivery with 40% velocity improvement.
 - Championed AI compliance based on ISO 42001 for the release of Elate's AI-powered Strategy Advisor.
@@ -20,7 +22,9 @@ permalink: /resume/
 - Optimized GCP infrastructure by migrating core components to Terraform, resulting in a 50% reduction in annual cloud expenditure and within 2% ARR.
 - Directed annual SOC 2 Type II and GDPR audits, improved MacOS & Windows MDM coverage by 50%+, automated asset procurement, and enhanced container security processes.
 
-### Senior Manager | Salesforce | March 2022 – March 2023
+### Salesforce
+
+#### Senior Manager | March 2022 – March 2023
 
 - Oversaw a team handling strategic security programs and risk reduction.
 - Provided guidance, training and mentoring to individuals within the Security and Business Technology teams.
@@ -28,7 +32,7 @@ permalink: /resume/
 - Resolved an internal conflict between the Security and Business Technology teams via organized bi-weekly syncs and weekly updates in Slack, resulting in greater communication, and an increase in on-time deliverables by 50%.
 - Built a foundational Deception Program leveraging detection frameworks to gather internal threat intelligence for Salesforce Enterprise.
 
-### Lead Security Engineer | Salesforce | December 2019 – February 2022
+#### Lead Security Engineer | December 2019 – February 2022
 
 - Scrum lead and product owner creating program initiatives and best practices, in addition to advising stakeholders.
 - Planned and prioritized yearly team goals, deliverables, and budget estimates.
@@ -36,14 +40,14 @@ permalink: /resume/
 - Built and led execution of on-time deliverables. Advised leadership on a new service migration and design, Kafka-based logging pipeline (650k+ events per second), which improved security, reliability, and reduced overhead costs.
 - Reduced Network Security Monitoring log data consumption 25%, by removing low fidelity data flows.
 
-### Senior Security Engineer | Salesforce | March 2017 – November 2019
+#### Senior Security Engineer | March 2017 – November 2019
 
 - Promoted to install, operate, monitor, and troubleshoot the security monitoring infrastructure. Likewise, planned and sized hardware and software architecture.
 - Successfully automated the frontend and backend systems, resulting in increased reliability; enhanced performance and scale; and monitoring and rapid deployment.
 - Leveraged subject matter expertise to standardize security solutions across 55+ Salesforce environments.
 - Completed in-depth root-cause analysis on critical systems utilizing network security and incident response tools, providing actionable insights for business stakeholders.
 
-### Information Security Analyst | Salesforce | April 2014 – February 2017
+#### Information Security Analyst | April 2014 – February 2017
 
 - Team member who helped respond to and manage information security incidents
 - Designed, implemented, managed, and tuned Intrusion Detection Systems (IDS)
@@ -52,7 +56,7 @@ permalink: /resume/
 - Improved digital forensics and incident response processes and procedures
 - Engineered Key Performance Indicator (KPI) metrics to improve performance monitoring of security systems
 
-### Catapult Rotational Associate | Salesforce | June 2013 – March 2014
+#### Catapult Rotational Associate | June 2013 – March 2014
 
 - Configured and tuned SIEM to reduce the false positive alerts generated
 - Performed an assessment of the 20 SANS Security Controls for the ExactTarget Corporate Environment
