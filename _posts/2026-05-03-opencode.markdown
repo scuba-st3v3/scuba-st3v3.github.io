@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Opencode"
+categories: ai
+---
+
+## Setup
+
+- I am using Docker Desktop + WSL 2.0 (AlmaLinux-8) + VS Code (WSL extension) on Windows
+- I have the WSL resource integration for Docker Desktop configured
+- I open VS Code within WSL 2.0
+- Opencode CLI is installed within AlmaLinux-8 via [bash](https://opencode.ai/download)
+
+### Opencode Go
+
+I am testing out the [Go](https://opencode.ai/go) subscription for Opencode.
+
+### Harness Skills
+
+1. Configure [karpathy-guidelines](https://github.com/forrestchang/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines/SKILL.md). This is added to `~/.config/opencode/skills/karpathy-guidelines/SKILL.md`
+2. Configure [superpowers](https://github.com/obra/superpowers). This is installed as a plugin via `~/.config/opencode/opencode.json`
