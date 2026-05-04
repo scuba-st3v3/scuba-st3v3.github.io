@@ -5,7 +5,7 @@ date:   2026-03-25 2:00:00 -0500
 categories: ai
 ---
 
-My experience first started in early 2023 with ChatGPT (Free) to help debug a personal project I was working on. Through a lot of trial and error, it helped get me where I needed to go in terms of generating a working solution. 
+My experience first started in early 2023 with ChatGPT (Free) to help debug a personal project I was working on. Through a lot of trial and error, it helped get me where I needed to go in terms of generating a working solution.
 
 In early 2024, through my employer, I first got exposed to GitHub Copilot via the VSCode extension. For the most part, it felt like a glorified auto-complete based on what I was working on at the time. Occasionally, I would use the built-in Copilot Chat component to ask one-off questions or to debug a specific error I was getting.
 
