@@ -25,7 +25,7 @@ linkedin: steven-hostetler
 # Navigation
 header_pages:
   - index.md
-  - resume.md
+  - experience.md
 
 # Build settings
 markdown: kramdown
